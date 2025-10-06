@@ -2,7 +2,6 @@
 
 1. clustering
 2. decision tree
-3. regression:
-    -- linear
-    -- logistic
-    -- ridge and lasso
+3. linear regression
+4. logistic regression
+5. ridge and lasso regression
